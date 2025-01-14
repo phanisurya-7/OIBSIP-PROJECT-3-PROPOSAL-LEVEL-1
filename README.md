@@ -38,9 +38,4 @@ The project includes the following key steps:
    python data_cleaning.py
    ```
 
-## License
-This project is licensed under the MIT License.
 
----
-
-Feel free to modify or add sections as per your project details!
